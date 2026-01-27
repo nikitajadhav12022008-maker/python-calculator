@@ -27,5 +27,4 @@ Functions
 Conditional statements
 User input
 Basic arithmetic operators
-   ```bash
-   python calculator.py
+  
