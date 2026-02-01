@@ -9,6 +9,9 @@ A basic calculator program built using Python that performs simple arithmetic op
 
 ## 🛠 Technologies Used
 - Python 3
+-basic concepts:
+conditional statements(if,elif,else)
+user input
 
 ## 📌 Features
 - Addition
