@@ -1,4 +1,4 @@
-#python based calculator:
+# Python based calculator:
 #using functions:
 def calculator():
     op = input("enter a operation(+,-,*,/):")
