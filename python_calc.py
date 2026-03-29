@@ -16,6 +16,7 @@ def calculator():
             print(a/b)
         else:
             print("error:division by zero")
+    #condition when all fails
     else:
         print("invalid operation please try again !!!!")
 #function calling:
