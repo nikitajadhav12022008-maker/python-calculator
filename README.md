@@ -20,7 +20,7 @@ A basic calculator program built using Python that performs simple arithmetic op
 - User-friendly input
 ----
 
-##📚 Concepts Used:
+## 📚 Concepts Used:
 
 - Functions
 - Conditional statements
@@ -32,11 +32,11 @@ A basic calculator program built using Python that performs simple arithmetic op
 1. Clone the repository  
 2. Run the Python file:
 ```bash
-   python Calc.py
+python Calc.py
 ------
 
 
-##👩‍💻Author:
+## 👩‍💻Author:
 Nikita Jadhav
 
 
