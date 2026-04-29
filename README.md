@@ -20,6 +20,14 @@ A basic calculator program built using Python that performs simple arithmetic op
 - User-friendly input
 ----
 
+##📚 Concepts Used:
+
+- Functions
+- Conditional statements
+- User input
+- Basic arithmetic operators
+------
+
 ## 🚀 How to Run:
 1. Clone the repository  
 2. Run the Python file:
@@ -27,12 +35,6 @@ A basic calculator program built using Python that performs simple arithmetic op
    python Calc.py
 ------
 
-##📚 Concepts Used:
--Functions
--Conditional statements
--User input
--Basic arithmetic operators
-------
 
 ##👩‍💻Author:
 Nikita Jadhav
